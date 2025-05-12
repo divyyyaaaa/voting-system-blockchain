@@ -23,12 +23,12 @@ A decentralized voting system built with Ethereum smart contracts and deployed v
  
  Feature                Why It Matters                                              
 
- Decentralization       Removes single point of control.                            
- Transparency           Public, verifiable vote ledger.                             
- Immutability           Votes can’t be changed or deleted.                          
- One-Vote Logic         Smart contract restricts duplicate voting.                  
- Auditability           Results visible and verifiable in real time.                
- Trustless Environment  Trust is coded into the protocol, not a central authority. 
+ Decentralization:       Removes single point of control.                            
+ Transparency:           Public, verifiable vote ledger.                             
+ Immutability:           Votes can’t be changed or deleted.                          
+ One-Vote Logic:         Smart contract restricts duplicate voting.                  
+ Auditability:           Results visible and verifiable in real time.                
+ Trustless Environment:  Trust is coded into the protocol, not a central authority. 
  
 
  ✅ Smart Contract File
